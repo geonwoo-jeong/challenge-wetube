@@ -130,3 +130,39 @@ Use .pug
 You need to take the genres input from the frontend and learn how to turn it into an array on the backend. Separate it by commas ( , ) Drama, Comedy, Accion -> ["Drama", "Comedy", "Action"]
 Not allowed to type the array from the frontend.
 ```
+
+## Day 17
+
+https://codesandbox.io/s/day-twelve-blueprint-n6i8u
+
+```
+Mongoose Time!
+이번엔 3일 챌린지 입니다.
+This challenge is based on videos #2.0 to #3.12
+
+3일간 시청하는 강의: #2.0 to #3.12
+3일간 제출하는 과제: 위의 강의를 시청하신 후, 아래 코딩챌린지를 완료하세요.
+Challenge Blueprint
+DAY 17. Blueprint
+To run this Sandbox, you will have to add your username in the line 10 of models/Movie.js
+We are all sharing a database, adding your username is required so we can all work on the same DB at the same time.
+To find your username, go to tribe.nomadcoders.co and look for your username, i.e @serranoarevalo
+Challenge
+Using Mongoose, create a CRUD (Create, Read, Delete, Update) Application for Movies.
+The routes you have to make are:
+/ <-- See all movies
+/create <-- Create a movie (html form)
+/:id <-- See movie by ID
+/:id/edit <-- Edit movie by ID
+/:id/delete <-- Delete movie by ID
+/search <-- Search movies
+On the line 12 of models/Movie.js you have to create a complete schema for your movie model. The schema should have the fields id, title, year, rating, synopsis, genres[], uploadedAt
+All the fields are required.
+You need to validate that the year is a number.
+You need to validate that the title is at least 3 characters long.
+When I create a movie I should be redirected to the detail page of that movie.
+When a movie is not found I should see a 404.
+When I delete a movie I should be redirected to the home page.
+On the /search page I should be able to filter by /search?year=1900 or /search?rating=9.6
+```
+
