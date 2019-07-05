@@ -131,7 +131,7 @@ You need to take the genres input from the frontend and learn how to turn it int
 Not allowed to type the array from the frontend.
 ```
 
-## Day 17
+## Day 17 ~ 19
 
 https://codesandbox.io/s/day-twelve-blueprint-n6i8u
 
