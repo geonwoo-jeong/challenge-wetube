@@ -166,3 +166,14 @@ When I delete a movie I should be redirected to the home page.
 On the /search page I should be able to filter by /search?year=1900 or /search?rating=9.6
 ```
 
+## Day 23
+
+https://codesandbox.io/s/txt2html-blueprint-lmek5
+
+```
+Challenge goals:
+아래 주어진 컨디션들을 모두 수행하여야 코딩챌린지를 통과할 수 있습니다. Make a website that takes a .txt file, reads it and shows the content of the file to the user.
+
+The page / should have a form where the user can upload a .txt file.
+Upload a file using multer, read the contents using fs and render another template showing the user the contents of the file.
+```
