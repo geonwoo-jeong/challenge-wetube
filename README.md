@@ -179,7 +179,7 @@ Upload a file using multer, read the contents using fs and render another templa
 ```
 
 
-## Day 25
+## Day 25~26
 
 https://codesandbox.io/s/isitdown-boilerplate-rekul
 
@@ -192,4 +192,25 @@ Using request make a GET request to the website and if the response.statusCode i
 If the website is down, return a JSON {up:false}
 Notes:
 To develop this challenge, do it in your computer, Codesandbox is not working with request, when you're done just copy paste the code into Codesanbox and submit it.
+```
+
+## Day 29~30
+
+https://codesandbox.io/s/videoplayer-blueprint-yjc5k
+
+```
+Challenge:
+Using the blueprint and based on what you saw on the videos, clone this video player:
+주어진 코드샌드박스를 활용하여 아래 비디오 플레이어를 클론코딩 하세요. videoPlayer
+Requirements:
+아래 주어진 컨디션들을 모두 수행하여야 코딩챌린지를 통과할 수 있습니다.
+
+Play / Pause Button
+Show the player bar when the user hovers moves the mouse
+If the mouse does not move, hide the mouse and the player bar even if it's on top of the video.
+If I press the spacebar the video should play/pause
+Muted/Unmuted Button
+When the video finishes, make it restart automatically.
+Show Current Time / Total Time
+Use Fontawesome
 ```
