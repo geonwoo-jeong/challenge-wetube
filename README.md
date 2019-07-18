@@ -214,3 +214,25 @@ When the video finishes, make it restart automatically.
 Show Current Time / Total Time
 Use Fontawesome
 ```
+
+
+## Day 31~32
+
+https://codesandbox.io/s/voice-recording-blueprint-fskln
+
+```
+Voice Recorder
+이것은 2일 챌린지 입니다.
+This challenge is based on videos #9.0 to #9.2
+
+오늘 시청하는 강의: #9.0 to #9.2
+과제: 위의 강의를 시청하신 후, 아래 코드 챌린지를 완료하세요.
+Challenge:
+Using the blueprint and based on what you saw on the videos, build a voice recorder. 주어진 코드샌드박스를 활용하여 녹음기를 만드세요. 아래 컨디션들을 모두 수행하여야 코딩챌린지를 통과할 수 있습니다.
+
+Record / Stop Recording Button. Should start/stop recording
+Time indicator of the recording's progress in seconds
+When I stop recording trigger a download the file
+Notes
+Don't use Async/Await
+```
