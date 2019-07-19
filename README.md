@@ -236,3 +236,24 @@ When I stop recording trigger a download the file
 Notes
 Don't use Async/Await
 ```
+
+## Day 33
+
+https://codesandbox.io/s/geo-blueprint-iivbv
+
+```
+Locate Me Ajax!
+이것은 1일 챌린지 입니다.
+This challenge is based on the videos #10.0 to #10.5
+
+오늘 시청하는 강의: #10.0 to #10.5
+과제: 위의 강의를 시청하신 후, 아래 코드 챌린지를 완료하세요.
+Challenge:
+Call this URL with AJAX, that URL returns information about your location.
+
+Call the URL when the page loads
+Show me an indicator when the request is happening
+When the data comes, show me my location on the HTML
+Notes
+Because the URL is not on https, Codesandbox won't let you fetch, so make this example on your computer and then copy paste the code in Codesandbox to submit.
+```
