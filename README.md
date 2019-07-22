@@ -257,3 +257,22 @@ When the data comes, show me my location on the HTML
 Notes
 Because the URL is not on https, Codesandbox won't let you fetch, so make this example on your computer and then copy paste the code in Codesandbox to submit.
 ```
+
+## Day 36
+
+https://codesandbox.io/s/coin-tracker-blueprint-rb0ni
+
+```
+Challenge:
+Using the awesome Coinpaprika API build a "real-time" crypto price tracker dashboard!
+There is one URL https://api.coinpaprika.com/v1/tickers that gives you all the coins with their price in USD
+
+Call the URL when the page loads
+
+Show me a loading indicator when the request is happening
+When the data comes, paint all the coins with their prices.
+Every 5 seconds call the URL again and repaint the results
+Notes
+Because the API is now on https you can work on Codesandbox for this one.
+
+```
