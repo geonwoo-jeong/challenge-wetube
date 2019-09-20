@@ -1,5 +1,9 @@
 # challenge-wetube
 
+## Code Review 
+
+https://www.youtube.com/watch?v=WMqWOcxU4lo&list=PL7jH19IHhOLNpEZvToE7X8M9g3bqO2kGf&index=7&t=0s
+
 ## Day4
 
 https://codesandbox.io/s/day-four-blueprint-i2mny
